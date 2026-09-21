@@ -1,0 +1,6 @@
+{
+  "name": "StayGuide - Digital Welcome Book",
+  "description": "Cẩm nang kỹ thuật số thay thế sổ tay truyền thống cho homestay & khách sạn, hỗ trợ xem mật khẩu Wi-Fi, hướng dẫn thiết bị, gợi ý địa phương và liên hệ lễ tân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
